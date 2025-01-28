@@ -11,19 +11,22 @@ Features 🛠️
 How It Works 💡
 
 HTML:
-The structure of the game board is created using a simple 3x3 grid.
-Each cell in the grid is represented by a clickable <div>.
+
+-The structure of the game board is created using a simple 3x3 grid.
+-Each cell in the grid is represented by a clickable <div>.
 
 CSS:
-The game board is styled to look clean and user-friendly.
-Winning combinations are highlighted with animations or distinct colors.
+
+-The game board is styled to look clean and user-friendly.
+-Winning combinations are highlighted with animations or distinct colors.
 
 JavaScript:
-Handles the game logic, including:
-Player turns (e.g., X or O).
-Checking for winning conditions (rows, columns, diagonals).
-Detecting a tie.
-Resetting the game state.
-Includes event listeners to detect clicks and update the game board dynamically.
+
+-Handles the game logic, including:
+-Player turns (e.g., X or O).
+-Checking for winning conditions (rows, columns, diagonals).
+-Detecting a tie.
+-Resetting the game state.
+-Includes event listeners to detect clicks and update the game board dynamically.
 
 
