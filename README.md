@@ -13,10 +13,12 @@ HTML:
 
 The structure of the game board is created using a simple 3x3 grid.
 Each cell in the grid is represented by a clickable <div>.
+
 CSS:
 
 The game board is styled to look clean and user-friendly.
 Winning combinations are highlighted with animations or distinct colors.
+
 JavaScript:
 
 Handles the game logic, including:
